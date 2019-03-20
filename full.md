@@ -62,7 +62,7 @@ Acting in accordance with the ordinary legislative procedure[^3],
 [[!inline pages="art/1 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 2</span>
+<span class="artnum" id="art2">Article 2</span>
 
 <span class="art">
 Material scope</span>
@@ -70,7 +70,7 @@ Material scope</span>
 [[!inline pages="art/2 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 3</span>
+<span class="artnum" id="art3">Article 3</span>
 
 <span class="art">
 Territorial scope</span>
@@ -78,7 +78,7 @@ Territorial scope</span>
 [[!inline pages="art/3 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 4</span>
+<span class="artnum" id="art4">Article 4</span>
 
 <span class="art">
 Definitions</span>
@@ -91,7 +91,7 @@ Definitions</span>
 <span class="chap">
 Principles</span>
 
-<span class="artnum" id="art">Article 5</span>
+<span class="artnum" id="art5">Article 5</span>
 
 <span class="art">
 Principles relating to processing of personal data</span>
@@ -99,7 +99,7 @@ Principles relating to processing of personal data</span>
 [[!inline pages="art/5 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 6</span>
+<span class="artnum" id="art6">Article 6</span>
 
 <span class="art">
 Lawfulness of processing</span>
@@ -107,7 +107,7 @@ Lawfulness of processing</span>
 [[!inline pages="art/6 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 7</span>
+<span class="artnum" id="art7">Article 7</span>
 
 <span class="art">
 Conditions for consent</span>
@@ -115,7 +115,7 @@ Conditions for consent</span>
 [[!inline pages="art/7 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 8</span>
+<span class="artnum" id="art8">Article 8</span>
 
 <span class="art">
 Conditions applicable to child's consent in relation to information society services</span>
@@ -123,7 +123,7 @@ Conditions applicable to child's consent in relation to information society serv
 [[!inline pages="art/8 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 9</span>
+<span class="artnum" id="art9">Article 9</span>
 
 <span class="art">
 Processing of special categories of personal data</span>
@@ -131,7 +131,7 @@ Processing of special categories of personal data</span>
 [[!inline pages="art/9 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 10</span>
+<span class="artnum" id="art10">Article 10</span>
 
 <span class="art">
 Processing of personal data relating to criminal convictions and offences</span>
@@ -139,7 +139,7 @@ Processing of personal data relating to criminal convictions and offences</span>
 [[!inline pages="art/10 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 11</span>
+<span class="artnum" id="art11">Article 11</span>
 
 <span class="art">
 Processing which does not require identification</span>
@@ -158,7 +158,7 @@ Section 1</span>
 <span class="sec">
 Transparency and modalities</span>
 
-<span class="artnum" id="art">Article 12</span>
+<span class="artnum" id="art12">Article 12</span>
 
 <span class="art">
 Transparent information, communication and modalities for the exercise of the rights of the data subject</span>
@@ -172,7 +172,7 @@ Section 2</span>
 <span class="sec">
 Information and access to personal data</span>
 
-<span class="artnum" id="art">Article 13</span>
+<span class="artnum" id="art13">Article 13</span>
 
 <span class="art">
 Information to be provided where personal data are collected from the data subject</span>
@@ -180,7 +180,7 @@ Information to be provided where personal data are collected from the data subje
 [[!inline pages="art/13 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 14</span>
+<span class="artnum" id="art14">Article 14</span>
 
 <span class="art">
 Information to be provided where personal data have not been obtained from the data subject</span>
@@ -188,7 +188,7 @@ Information to be provided where personal data have not been obtained from the d
 [[!inline pages="art/14 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 15</span>
+<span class="artnum" id="art15">Article 15</span>
 
 Right of access by the data subject</span>
 
@@ -202,7 +202,7 @@ Section 3</span>
 <span class="sec">
 Rectification and erasure</span>
 
-<span class="artnum" id="art">Article 16</span>
+<span class="artnum" id="art16">Article 16</span>
 
 <span class="art">
 Right to rectification</span>
@@ -210,7 +210,7 @@ Right to rectification</span>
 [[!inline pages="art/16 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 17</span>
+<span class="artnum" id="art17">Article 17</span>
 
 <span class="art">
 Right to erasure (‘right to be forgotten’)</span>
@@ -218,7 +218,7 @@ Right to erasure (‘right to be forgotten’)</span>
 [[!inline pages="art/17 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 18</span>
+<span class="artnum" id="art18">Article 18</span>
 
 <span class="art">
 Right to restriction of processing</span>
@@ -226,7 +226,7 @@ Right to restriction of processing</span>
 [[!inline pages="art/18 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 19</span>
+<span class="artnum" id="art19">Article 19</span>
 
 <span class="art">
 Notification obligation regarding rectification or erasure of personal data or restriction of processing</span>
@@ -234,7 +234,7 @@ Notification obligation regarding rectification or erasure of personal data or r
 [[!inline pages="art/19 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 20</span>
+<span class="artnum" id="art20">Article 20</span>
 
 <span class="art">
 Right to data portability</span>
@@ -248,7 +248,7 @@ Section 4</span>
 <span class="sec">
 Right to object and automated individual decision-making</span>
 
-<span class="artnum" id="art">Article 21</span>
+<span class="artnum" id="art21">Article 21</span>
 
 <span class="art">
 Right to object</span>
@@ -256,7 +256,7 @@ Right to object</span>
 [[!inline pages="art/21 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 22</span>
+<span class="artnum" id="art22">Article 22</span>
 
 <span class="art">
 Automated individual decision-making, including profiling</span>
@@ -270,7 +270,7 @@ Section 5</span>
 <span class="sec">
 Restrictions</span>
 
-<span class="artnum" id="art">Article 23</span>
+<span class="artnum" id="art23">Article 23</span>
 
 <span class="art">
 Restrictions</span>
@@ -289,7 +289,7 @@ Section 1</span>
 <span class="sec">
 General obligations</span>
 
-<span class="artnum" id="art">Article 24</span>
+<span class="artnum" id="art24">Article 24</span>
 
 <span class="art">
 Responsibility of the controller</span>
@@ -297,14 +297,14 @@ Responsibility of the controller</span>
 [[!inline pages="art/24 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 25</span>
+<span class="artnum" id="art25">Article 25</span>
 
 <span class="art">
 Data protection by design and by default</span>
 
 [[!inline pages="art/25 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
-<span class="artnum" id="art">Article 26</span>
+<span class="artnum" id="art26">Article 26</span>
 
 <span class="art">
 Joint controllers</span>
@@ -312,7 +312,7 @@ Joint controllers</span>
 [[!inline pages="art/26 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 27</span>
+<span class="artnum" id="art27">Article 27</span>
 
 <span class="art">
 Representatives of controllers or processors not established in the Union
@@ -321,7 +321,7 @@ Representatives of controllers or processors not established in the Union
 [[!inline pages="art/27 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 28</span>
+<span class="artnum" id="art28">Article 28</span>
 
 <span class="art">
 Processor</span>
@@ -329,14 +329,14 @@ Processor</span>
 [[!inline pages="art/28 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">Article 29</span>
+<span class="artnum" id="art29">Article 29</span>
 
 <span class="art">
 Processing under the authority of the controller or processor</span>
 
 [[!inline pages="art/29 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
-<span class="artnum" id="art">
+<span class="artnum" id="art30">
 Article 30</span>
 
 <span class="art">
@@ -344,7 +344,7 @@ Records of processing activities</span>
 
 [[!inline pages="art/30 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
-<span class="artnum" id="art">
+<span class="artnum" id="art31">
 Article 31</span>
 
 <span class="art">
@@ -359,7 +359,7 @@ Section 2</span>
 <span class="sec">
 Security of personal data</span>
 
-<span class="artnum" id="art">
+<span class="artnum" id="art32">
 Article 32</span>
 
 <span class="art">
@@ -367,7 +367,7 @@ Security of processing</span>
 
 [[!inline pages="art/32 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
-<span class="artnum" id="art">
+<span class="artnum" id="art33">
 Article 33</span>
 
 <span class="art">
@@ -375,7 +375,7 @@ Notification of a personal data breach to the supervisory authority</span>
 
 [[!inline pages="art/33 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
-<span class="artnum" id="art">
+<span class="artnum" id="art34">
 Article 34</span>
 
 <span class="art">
@@ -390,7 +390,7 @@ Section 3</span>
 <span class="sec">
 Data protection impact assessment and prior consultation</span>
 
-<span class="artnum" id="art">
+<span class="artnum" id="art35">
 Article 35</span>
 
 <span class="art">
@@ -398,7 +398,7 @@ Data protection impact assessment</span>
 
 [[!inline pages="art/35 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
-<span class="artnum" id="art">
+<span class="artnum" id="art36">
 Article 36</span>
 
 <span class="art">
@@ -412,7 +412,7 @@ Section 4</span>
 <span class="sec">
 Data protection officer</span>
 
-<span class="artnum" id="art">
+<span class="artnum" id="art37">
 Article 37</span>
 
 <span class="art">
@@ -421,7 +421,7 @@ Designation of the data protection officer</span>
 [[!inline pages="art/37 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">
+<span class="artnum" id="art38">
 Article 38</span>
 
 <span class="art">
@@ -429,7 +429,7 @@ Position of the data protection officer</span>
 
 [[!inline pages="art/38 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
-<span class="artnum" id="art">
+<span class="artnum" id="art39">
 Article 39</span>
 
 <span class="art">
@@ -444,7 +444,7 @@ Section 5</span>
 <span class="sec">
 Codes of conduct and certification</span>
 
-<span class="artnum" id="art">
+<span class="artnum" id="art40">
 Article 40</span>
 
 <span class="art">
@@ -452,7 +452,7 @@ Codes of conduct</span>
 
 [[!inline pages="art/40 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
-<span class="artnum" id="art">
+<span class="artnum" id="art41">
 Article 41</span>
 
 <span class="art">
@@ -461,7 +461,7 @@ Monitoring of approved codes of conduct</span>
 [[!inline pages="art/41 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">
+<span class="artnum" id="art42">
 Article 42</span>
 
 <span class="art">
@@ -470,7 +470,7 @@ Certification</span>
 [[!inline pages="art/42 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">
+<span class="artnum" id="art43">
 Article 43</span>
 
 <span class="art">
@@ -484,7 +484,7 @@ Certification bodies</span>
 <span class="chap">
 Transfers of personal data to third countries or international organisations</span>
 
-<span class="artnum" id="art">
+<span class="artnum" id="art44">
 Article 44</span>
 
 <span class="art">
@@ -493,7 +493,7 @@ General principle for transfers</span>
 [[!inline pages="art/44 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">
+<span class="artnum" id="art45">
 Article 45</span>
 
 <span class="art">
@@ -502,7 +502,7 @@ Transfers on the basis of an adequacy decision</span>
 [[!inline pages="art/45 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">
+<span class="artnum" id="art46">
 Article 46</span>
 
 <span class="art">
@@ -511,7 +511,7 @@ Transfers subject to appropriate safeguards</span>
 [[!inline pages="art/46 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">
+<span class="artnum" id="art47">
 Article 47</span>
 
 <span class="art">
@@ -520,7 +520,7 @@ Binding corporate rules</span>
 [[!inline pages="art/47 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">
+<span class="artnum" id="art48">
 Article 48</span>
 
 <span class="art">
@@ -529,7 +529,7 @@ Transfers or disclosures not authorised by Union law</span>
 [[!inline pages="art/48 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">
+<span class="artnum" id="art49">
 Article 49</span>
 
 <span class="art">
@@ -538,7 +538,7 @@ Derogations for specific situations</span>
 [[!inline pages="art/49 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
-<span class="artnum" id="art">
+<span class="artnum" id="art50">
 Article 50</span>
 
 <span class="art">
