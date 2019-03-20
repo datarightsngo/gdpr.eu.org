@@ -595,41 +595,62 @@ Article 51
 
 Supervisory authority
 
+[[!inline pages="art/51 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 52
 
 Independence
+
+[[!inline pages="art/52 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 53
 
 General conditions for the members of the supervisory authority
 
+[[!inline pages="art/53 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 54
 
 Rules on the establishment of the supervisory authority
+
+[[!inline pages="art/54 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Section 2
 
 Competence, tasks and powers
 
+
 Article 55
 
 Competence
+
+[[!inline pages="art/55 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 
 Article 56
 
 Competence of the lead supervisory authority
 
+[[!inline pages="art/56 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 57
 
 Tasks
+
+[[!inline pages="art/57 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 
 Article 58
 
 Powers
 
+[[!inline pages="art/58 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 59
 
 Activity reports
+
+[[!inline pages="art/59 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 <h2>
 <span class="chapnum" id="chap7">CHAPTER VII</span>
@@ -647,13 +668,19 @@ Article 60
 
 Cooperation between the lead supervisory authority and the other supervisory authorities concerned
 
+[[!inline pages="art/60 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 61
 
 Mutual assistance
 
+[[!inline pages="art/61 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 62
 
 Joint operations of supervisory authorities
+
+[[!inline pages="art/62 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Section 2
 
@@ -663,21 +690,31 @@ Article 63
 
 Consistency mechanism
 
+[[!inline pages="art/63 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 64
 
 Opinion of the Board
+
+[[!inline pages="art/64 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 65
 
 Dispute resolution by the Board
 
+[[!inline pages="art/65 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 66
 
 Urgency procedure
 
+[[!inline pages="art/66 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 67
 
 Exchange of information
+
+[[!inline pages="art/67 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Section 3
 
@@ -687,37 +724,55 @@ Article 68
 
 European Data Protection Board
 
+[[!inline pages="art/68 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 69
 
 Independence
+
+[[!inline pages="art/69 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 70
 
 Tasks of the Board
 
+[[!inline pages="art/70 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 71
 
 Reports
+
+[[!inline pages="art/71 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 72
 
 Procedure
 
+[[!inline pages="art/72 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 73
 
 Chair
+
+[[!inline pages="art/73 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 74
 
 Tasks of the Chair
 
+[[!inline pages="art/74 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 75
 
 Secretariat
 
+[[!inline pages="art/75 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 76
 
 Confidentiality
+
+[[!inline pages="art/76 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 <h2>
 <span class="chapnum" id="chap8">CHAPTER VIII</span>
@@ -731,33 +786,49 @@ Article 77
 
 Right to lodge a complaint with a supervisory authority
 
+[[!inline pages="art/77 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 78
 
 Right to an effective judicial remedy against a supervisory authority
+
+[[!inline pages="art/78 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 79
 
 Right to an effective judicial remedy against a controller or processor
 
+[[!inline pages="art/79 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 80
 
 Representation of data subjects
+
+[[!inline pages="art/80 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 81
 
 Suspension of proceedings
 
+[[!inline pages="art/81 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 82
 
 Right to compensation and liability
+
+[[!inline pages="art/82 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 83
 
 General conditions for imposing administrative fines
 
+[[!inline pages="art/83 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 84
 
 Penalties
+
+[[!inline pages="art/84 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 <h2>
 <span class="chapnum" id="chap9">CHAPTER IX</span>
@@ -771,29 +842,43 @@ Article 85
 
 Processing and freedom of expression and information
 
+[[!inline pages="art/85 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 86
 
 Processing and public access to official documents
+
+[[!inline pages="art/86 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 87
 
 Processing of the national identification number
 
+[[!inline pages="art/87 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 88
 
 Processing in the context of employment
+
+[[!inline pages="art/88 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 89
 
 Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
 
+[[!inline pages="art/89 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 90
 
 Obligations of secrecy
 
+[[!inline pages="art/90 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 91
 
 Existing data protection rules of churches and religious associations
+
+[[!inline pages="art/91 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 <h2>
 <span class="chapnum" id="chap10">CHAPTER X</span>
@@ -807,9 +892,13 @@ Article 92
 
 Exercise of the delegation
 
+[[!inline pages="art/92 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 93
 
 Committee procedure
+
+[[!inline pages="art/93 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 <h2>
 <span class="chapnum" id="chap11">CHAPTER XI</span>
@@ -823,25 +912,39 @@ Article 94
 
 Repeal of Directive 95/46/EC
 
+[[!inline pages="art/94 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 95
 
 Relationship with Directive 2002/58/EC
+
+[[!inline pages="art/95 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 96
 
 Relationship with previously concluded Agreements
 
+[[!inline pages="art/96 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 97
 
 Commission reports
+
+[[!inline pages="art/97 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 Article 98
 
 Review of other Union legal acts on data protection
 
+[[!inline pages="art/98 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
 Article 99
 
 Entry into force and application
+
+[[!inline pages="art/99 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
+
+
 
 
 </div>
