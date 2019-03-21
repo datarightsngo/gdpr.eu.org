@@ -180,7 +180,7 @@ Information to be provided where personal data have not been obtained from the d
 <span class="artnum" id="art15">Article 15</span>
 
 Right of access by the data subject</span>
-<span class="art">
+
 [[!inline pages="art/15 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
@@ -518,69 +518,103 @@ Independent supervisory authorities</span>
 
 <h3>
 <span class="secnum" id="chap6sec1">
-Section 1</span>
+Section 1
+</span>
 <span class="sec">
-Independent status</span>
+Independent status
+</span>
 </h3>
 
+<span class="artnum" id="art51">
 Article 51
-
+</span>
+<span class="art">
 Supervisory authority
+</span>
 
 [[!inline pages="art/51 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art52">
 Article 52
-
+</span>
+<span class="art">
 Independence
+</span>
 
 [[!inline pages="art/52 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art53">
 Article 53
-
+</span>
+<span class="art">
 General conditions for the members of the supervisory authority
+</span>
 
 [[!inline pages="art/53 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art54">
 Article 54
-
+</span>
+<span class="art">
 Rules on the establishment of the supervisory authority
+</span>
 
 [[!inline pages="art/54 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<h3>
+<span class="secnum" id="chap6sec2">
 Section 2
-
+</span>
+<span class="sec">
 Competence, tasks and powers
+</span>
+</h3>
 
 
+<span class="artnum" id="art55">
 Article 55
-
+</span>
+<span class="art">
 Competence
+</span>
 
 [[!inline pages="art/55 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
+<span class="artnum" id="art56">
 Article 56
-
+</span>
+<span class="art">
 Competence of the lead supervisory authority
+</span>
 
 [[!inline pages="art/56 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art57">
 Article 57
-
+</span>
+<span class="art">
 Tasks
+</span>
 
 [[!inline pages="art/57 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
+<span class="artnum" id="art58">
 Article 58
-
+</span>
+<span class="art">
 Powers
+</span>
 
 [[!inline pages="art/58 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art59">
 Article 59
-
+</span>
+<span class="art">
 Activity reports
+</span>
 
 [[!inline pages="art/59 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
@@ -591,117 +625,186 @@ Cooperation and consistency
 </span>
 </h2>
 
+
+<h3>
+<span class="secnum" id="chap7sec1">
 Section 1
-
+</span>
+<span class="sec">
 Cooperation
+</span>
+</h3>
 
+<span class="artnum" id="art">
 Article 60
-
+</span>
+<span class="art">
 Cooperation between the lead supervisory authority and the other supervisory authorities concerned
+</span>
 
 [[!inline pages="art/60 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 61
-
+</span>
+<span class="art">
 Mutual assistance
+</span>
 
 [[!inline pages="art/61 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 62
-
+</span>
+<span class="art">
 Joint operations of supervisory authorities
+</span>
 
 [[!inline pages="art/62 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<h3>
+<span class="secnum" id="chap7sec2">
 Section 2
-
+</span>
+<span class="sec">
 Consistency
+</span>
+</h3>
 
+<span class="artnum" id="art">
 Article 63
-
+</span>
+<span class="art">
 Consistency mechanism
+</span>
 
 [[!inline pages="art/63 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 64
 
+</span>
+<span class="art">
 Opinion of the Board
+</span>
 
 [[!inline pages="art/64 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 65
-
+</span>
+<span class="art">
 Dispute resolution by the Board
+</span>
 
 [[!inline pages="art/65 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 66
-
+</span>
+<span class="art">
 Urgency procedure
+</span>
 
 [[!inline pages="art/66 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 67
-
+</span>
+<span class="art">
 Exchange of information
+</span>
 
 [[!inline pages="art/67 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<h3>
+<span class="secnum" id="chap7sec3">
 Section 3
-
+</span>
+<span class="sec">
 European data protection board
+</span>
+</h3>
 
+
+<span class="artnum" id="art">
 Article 68
-
+</span>
+<span class="art">
 European Data Protection Board
+</span>
 
 [[!inline pages="art/68 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 69
-
+</span>
+<span class="art">
 Independence
+</span>
 
 [[!inline pages="art/69 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 70
-
+</span>
+<span class="art">
 Tasks of the Board
+</span>
 
 [[!inline pages="art/70 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 71
-
+</span>
+<span class="art">
 Reports
+</span>
 
 [[!inline pages="art/71 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 72
-
+</span>
+<span class="art">
 Procedure
+</span>
 
 [[!inline pages="art/72 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 73
-
+</span>
+<span class="art">
 Chair
+</span>
 
 [[!inline pages="art/73 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 74
-
+</span>
+<span class="art">
 Tasks of the Chair
+</span>
 
 [[!inline pages="art/74 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 75
-
+</span>
+<span class="art">
 Secretariat
+</span>
 
 [[!inline pages="art/75 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 76
-
+</span>
+<span class="art">
 Confidentiality
+</span>
 
 [[!inline pages="art/76 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
@@ -712,51 +815,75 @@ Remedies, liability and penalties
 </span>
 </h2>
 
+<span class="artnum" id="art">
 Article 77
-
+</span>
+<span class="art">
 Right to lodge a complaint with a supervisory authority
+</span>
 
 [[!inline pages="art/77 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 78
-
+</span>
+<span class="art">
 Right to an effective judicial remedy against a supervisory authority
+</span>
 
 [[!inline pages="art/78 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 79
-
+</span>
+<span class="art">
 Right to an effective judicial remedy against a controller or processor
+</span>
 
 [[!inline pages="art/79 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 80
-
+</span>
+<span class="art">
 Representation of data subjects
+</span>
 
 [[!inline pages="art/80 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 81
-
+</span>
+<span class="art">
 Suspension of proceedings
+</span>
 
 [[!inline pages="art/81 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 82
-
+</span>
+<span class="art">
 Right to compensation and liability
+</span>
 
 [[!inline pages="art/82 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 83
-
+</span>
+<span class="art">
 General conditions for imposing administrative fines
+</span>
 
 [[!inline pages="art/83 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 84
-
+</span>
+<span class="art">
 Penalties
+</span>
 
 [[!inline pages="art/84 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
@@ -767,45 +894,66 @@ Provisions relating to specific processing situations
 </span>
 </h2>
 
+<span class="artnum" id="art">
 Article 85
-
+</span>
+<span class="art">
 Processing and freedom of expression and information
+</span>
 
 [[!inline pages="art/85 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 86
-
+</span>
+<span class="art">
 Processing and public access to official documents
+</span>
 
 [[!inline pages="art/86 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 87
-
+</span>
+<span class="art">
 Processing of the national identification number
+</span>
 
 [[!inline pages="art/87 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 88
-
+</span>
+<span class="art">
 Processing in the context of employment
+</span>
 
 [[!inline pages="art/88 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 89
-
+</span>
+<span class="art">
 Safeguards and derogations relating to processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes
+</span>
 
 [[!inline pages="art/89 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 90
-
+</span>
+<span class="art">
 Obligations of secrecy
+</span>
 
 [[!inline pages="art/90 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 91
-
+</span>
+<span class="art">
 Existing data protection rules of churches and religious associations
+</span>
 
 [[!inline pages="art/91 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
@@ -816,15 +964,21 @@ Delegated acts and implementing acts
 </span>
 </h2>
 
+<span class="artnum" id="art">
 Article 92
-
+</span>
+<span class="art">
 Exercise of the delegation
+</span>
 
 [[!inline pages="art/92 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 93
-
+</span>
+<span class="art">
 Committee procedure
+</span>
 
 [[!inline pages="art/93 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
@@ -835,39 +989,57 @@ Final provisions
 </span>
 </h2>
 
+<span class="artnum" id="art">
 Article 94
-
+</span>
+<span class="art">
 Repeal of Directive 95/46/EC
+</span>
 
 [[!inline pages="art/94 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 95
-
+</span>
+<span class="art">
 Relationship with Directive 2002/58/EC
+</span>
 
 [[!inline pages="art/95 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 96
-
+</span>
+<span class="art">
 Relationship with previously concluded Agreements
+</span>
 
 [[!inline pages="art/96 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 97
-
+</span>
+<span class="art">
 Commission reports
+</span>
 
 [[!inline pages="art/97 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 98
-
+</span>
+<span class="art">
 Review of other Union legal acts on data protection
+</span>
 
 [[!inline pages="art/98 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
+<span class="artnum" id="art">
 Article 99
-
+</span>
+<span class="art">
 Entry into force and application
+</span>
 
 [[!inline pages="art/99 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
