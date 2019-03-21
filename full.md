@@ -1,11 +1,10 @@
 ---
 title: Full text of the GDPR work in progress
-header-includes: <style type="text/css">.inlinefooter .pagedate {display:none}</style>
 ...
 
 <header class="gdprlongtitle">
 
-<h1>REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</h1>
+REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL
 
 of 27 April 2016
 
@@ -52,19 +51,16 @@ Acting in accordance with the ordinary legislative procedure[^3],
 
 <h2>
 <span class="chapnum" id="chap1">CHAPTER I</span>
-
 <span class="chap">General provisions</span>
 </h2>
 
 <span class="artnum" id="art1">Article 1</span>
-
 <span class="art">Subject-matter and objectives</span>
 
 [[!inline pages="art/1 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 
 <span class="artnum" id="art2">Article 2</span>
-
 <span class="art">
 Material scope</span>
 
@@ -72,7 +68,6 @@ Material scope</span>
 
 
 <span class="artnum" id="art3">Article 3</span>
-
 <span class="art">
 Territorial scope</span>
 
@@ -80,7 +75,6 @@ Territorial scope</span>
 
 
 <span class="artnum" id="art4">Article 4</span>
-
 <span class="art">
 Definitions</span>
 
@@ -89,13 +83,11 @@ Definitions</span>
 
 <h2>
 <span class="chapnum" id="chap2">CHAPTER II</span>
-
 <span class="chap">
 Principles</span>
 </h2>
 
 <span class="artnum" id="art5">Article 5</span>
-
 <span class="art">
 Principles relating to processing of personal data</span>
 
@@ -103,7 +95,6 @@ Principles relating to processing of personal data</span>
 
 
 <span class="artnum" id="art6">Article 6</span>
-
 <span class="art">
 Lawfulness of processing</span>
 
@@ -111,7 +102,6 @@ Lawfulness of processing</span>
 
 
 <span class="artnum" id="art7">Article 7</span>
-
 <span class="art">
 Conditions for consent</span>
 
@@ -119,7 +109,6 @@ Conditions for consent</span>
 
 
 <span class="artnum" id="art8">Article 8</span>
-
 <span class="art">
 Conditions applicable to child's consent in relation to information society services</span>
 
@@ -127,7 +116,6 @@ Conditions applicable to child's consent in relation to information society serv
 
 
 <span class="artnum" id="art9">Article 9</span>
-
 <span class="art">
 Processing of special categories of personal data</span>
 
@@ -135,7 +123,6 @@ Processing of special categories of personal data</span>
 
 
 <span class="artnum" id="art10">Article 10</span>
-
 <span class="art">
 Processing of personal data relating to criminal convictions and offences</span>
 
@@ -143,7 +130,6 @@ Processing of personal data relating to criminal convictions and offences</span>
 
 
 <span class="artnum" id="art11">Article 11</span>
-
 <span class="art">
 Processing which does not require identification</span>
 
@@ -152,7 +138,6 @@ Processing which does not require identification</span>
 
 <h2>
 <span class="chapnum" id="chap3">CHAPTER III</span>
-
 <span class="chap">
 Rights of the data subject</span>
 </h2>
@@ -160,13 +145,11 @@ Rights of the data subject</span>
 <h3>
 <span class="secnum" id="chap3sec1">
 Section 1</span>
-
 <span class="sec">
 Transparency and modalities</span>
 </h3>
 
 <span class="artnum" id="art12">Article 12</span>
-
 <span class="art">
 Transparent information, communication and modalities for the exercise of the rights of the data subject</span>
 
@@ -176,13 +159,11 @@ Transparent information, communication and modalities for the exercise of the ri
 <h3>
 <span class="secnum" id="chap3sec2">
 Section 2</span>
-
 <span class="sec">
 Information and access to personal data</span>
 </h3>
 
 <span class="artnum" id="art13">Article 13</span>
-
 <span class="art">
 Information to be provided where personal data are collected from the data subject</span>
 
@@ -190,7 +171,6 @@ Information to be provided where personal data are collected from the data subje
 
 
 <span class="artnum" id="art14">Article 14</span>
-
 <span class="art">
 Information to be provided where personal data have not been obtained from the data subject</span>
 
@@ -200,7 +180,6 @@ Information to be provided where personal data have not been obtained from the d
 <span class="artnum" id="art15">Article 15</span>
 
 Right of access by the data subject</span>
-
 <span class="art">
 [[!inline pages="art/15 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
@@ -208,13 +187,11 @@ Right of access by the data subject</span>
 <h3>
 <span class="secnum" id="chap3sec3">
 Section 3</span>
-
 <span class="sec">
 Rectification and erasure</span>
 </h3>
 
 <span class="artnum" id="art16">Article 16</span>
-
 <span class="art">
 Right to rectification</span>
 
@@ -222,7 +199,6 @@ Right to rectification</span>
 
 
 <span class="artnum" id="art17">Article 17</span>
-
 <span class="art">
 Right to erasure (‘right to be forgotten’)</span>
 
@@ -230,7 +206,6 @@ Right to erasure (‘right to be forgotten’)</span>
 
 
 <span class="artnum" id="art18">Article 18</span>
-
 <span class="art">
 Right to restriction of processing</span>
 
@@ -238,7 +213,6 @@ Right to restriction of processing</span>
 
 
 <span class="artnum" id="art19">Article 19</span>
-
 <span class="art">
 Notification obligation regarding rectification or erasure of personal data or restriction of processing</span>
 
@@ -246,7 +220,6 @@ Notification obligation regarding rectification or erasure of personal data or r
 
 
 <span class="artnum" id="art20">Article 20</span>
-
 <span class="art">
 Right to data portability</span>
 
@@ -256,13 +229,11 @@ Right to data portability</span>
 <h3>
 <span class="secnum" id="chap3sec4">
 Section 4</span>
-
 <span class="sec">
 Right to object and automated individual decision-making</span>
 </h3>
 
 <span class="artnum" id="art21">Article 21</span>
-
 <span class="art">
 Right to object</span>
 
@@ -270,7 +241,6 @@ Right to object</span>
 
 
 <span class="artnum" id="art22">Article 22</span>
-
 <span class="art">
 Automated individual decision-making, including profiling</span>
 
@@ -280,13 +250,11 @@ Automated individual decision-making, including profiling</span>
 <h3>
 <span class="secnum" id="chap3sec5">
 Section 5</span>
-
 <span class="sec">
 Restrictions</span>
 </h3>
 
 <span class="artnum" id="art23">Article 23</span>
-
 <span class="art">
 Restrictions</span>
 
@@ -295,7 +263,6 @@ Restrictions</span>
 
 <h2>
 <span class="chapnum" id="chap4">CHAPTER IV</span>
-
 <span class="chap">
 Controller and processor</span>
 </h2>
@@ -303,13 +270,11 @@ Controller and processor</span>
 <h3>
 <span class="secnum" id="chap4sec1">
 Section 1</span>
-
 <span class="sec">
 General obligations</span>
 </h3>
 
 <span class="artnum" id="art24">Article 24</span>
-
 <span class="art">
 Responsibility of the controller</span>
 
@@ -317,14 +282,12 @@ Responsibility of the controller</span>
 
 
 <span class="artnum" id="art25">Article 25</span>
-
 <span class="art">
 Data protection by design and by default</span>
 
 [[!inline pages="art/25 and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawarticle raw=yes]]
 
 <span class="artnum" id="art26">Article 26</span>
-
 <span class="art">
 Joint controllers</span>
 
@@ -332,7 +295,6 @@ Joint controllers</span>
 
 
 <span class="artnum" id="art27">Article 27</span>
-
 <span class="art">
 Representatives of controllers or processors not established in the Union
 </span>
@@ -341,7 +303,6 @@ Representatives of controllers or processors not established in the Union
 
 
 <span class="artnum" id="art28">Article 28</span>
-
 <span class="art">
 Processor</span>
 
@@ -349,7 +310,6 @@ Processor</span>
 
 
 <span class="artnum" id="art29">Article 29</span>
-
 <span class="art">
 Processing under the authority of the controller or processor</span>
 
@@ -357,7 +317,6 @@ Processing under the authority of the controller or processor</span>
 
 <span class="artnum" id="art30">
 Article 30</span>
-
 <span class="art">
 Records of processing activities</span>
 
@@ -365,7 +324,6 @@ Records of processing activities</span>
 
 <span class="artnum" id="art31">
 Article 31</span>
-
 <span class="art">
 Cooperation with the supervisory authority</span>
 
@@ -375,14 +333,12 @@ Cooperation with the supervisory authority</span>
 <h3>
 <span class="secnum" id="chap4sec2">
 Section 2</span>
-
 <span class="sec">
 Security of personal data</span>
 </h3>
 
 <span class="artnum" id="art32">
 Article 32</span>
-
 <span class="art">
 Security of processing</span>
 
@@ -390,7 +346,6 @@ Security of processing</span>
 
 <span class="artnum" id="art33">
 Article 33</span>
-
 <span class="art">
 Notification of a personal data breach to the supervisory authority</span>
 
@@ -398,7 +353,6 @@ Notification of a personal data breach to the supervisory authority</span>
 
 <span class="artnum" id="art34">
 Article 34</span>
-
 <span class="art">
 Communication of a personal data breach to the data subject</span>
 
@@ -408,14 +362,12 @@ Communication of a personal data breach to the data subject</span>
 <h3>
 <span class="secnum" id="chap4sec3">
 Section 3</span>
-
 <span class="sec">
 Data protection impact assessment and prior consultation</span>
 </h3>
 
 <span class="artnum" id="art35">
 Article 35</span>
-
 <span class="art">
 Data protection impact assessment</span>
 
@@ -423,7 +375,6 @@ Data protection impact assessment</span>
 
 <span class="artnum" id="art36">
 Article 36</span>
-
 <span class="art">
 Prior consultation</span>
 
@@ -432,14 +383,12 @@ Prior consultation</span>
 <h3>
 <span class="secnum" id="chap4sec4">
 Section 4</span>
-
 <span class="sec">
 Data protection officer</span>
 </h3>
 
 <span class="artnum" id="art37">
 Article 37</span>
-
 <span class="art">
 Designation of the data protection officer</span>
 
@@ -448,7 +397,6 @@ Designation of the data protection officer</span>
 
 <span class="artnum" id="art38">
 Article 38</span>
-
 <span class="art">
 Position of the data protection officer</span>
 
@@ -456,7 +404,6 @@ Position of the data protection officer</span>
 
 <span class="artnum" id="art39">
 Article 39</span>
-
 <span class="art">
 Tasks of the data protection officer</span>
 
@@ -466,14 +413,12 @@ Tasks of the data protection officer</span>
 <h3>
 <span class="secnum" id="chap4sec5">
 Section 5</span>
-
 <span class="sec">
 Codes of conduct and certification</span>
 </h3>
 
 <span class="artnum" id="art40">
 Article 40</span>
-
 <span class="art">
 Codes of conduct</span>
 
@@ -481,7 +426,6 @@ Codes of conduct</span>
 
 <span class="artnum" id="art41">
 Article 41</span>
-
 <span class="art">
 Monitoring of approved codes of conduct</span>
 
@@ -490,7 +434,6 @@ Monitoring of approved codes of conduct</span>
 
 <span class="artnum" id="art42">
 Article 42</span>
-
 <span class="art">
 Certification</span>
 
@@ -499,7 +442,6 @@ Certification</span>
 
 <span class="artnum" id="art43">
 Article 43</span>
-
 <span class="art">
 Certification bodies</span>
 
@@ -508,14 +450,12 @@ Certification bodies</span>
 
 <h2>
 <span class="chapnum" id="chap5">CHAPTER V</span>
-
 <span class="chap">
 Transfers of personal data to third countries or international organisations</span>
 </h2>
 
 <span class="artnum" id="art44">
 Article 44</span>
-
 <span class="art">
 General principle for transfers</span>
 
@@ -524,7 +464,6 @@ General principle for transfers</span>
 
 <span class="artnum" id="art45">
 Article 45</span>
-
 <span class="art">
 Transfers on the basis of an adequacy decision</span>
 
@@ -533,7 +472,6 @@ Transfers on the basis of an adequacy decision</span>
 
 <span class="artnum" id="art46">
 Article 46</span>
-
 <span class="art">
 Transfers subject to appropriate safeguards</span>
 
@@ -542,7 +480,6 @@ Transfers subject to appropriate safeguards</span>
 
 <span class="artnum" id="art47">
 Article 47</span>
-
 <span class="art">
 Binding corporate rules</span>
 
@@ -551,7 +488,6 @@ Binding corporate rules</span>
 
 <span class="artnum" id="art48">
 Article 48</span>
-
 <span class="art">
 Transfers or disclosures not authorised by Union law</span>
 
@@ -560,7 +496,6 @@ Transfers or disclosures not authorised by Union law</span>
 
 <span class="artnum" id="art49">
 Article 49</span>
-
 <span class="art">
 Derogations for specific situations</span>
 
@@ -569,7 +504,6 @@ Derogations for specific situations</span>
 
 <span class="artnum" id="art50">
 Article 50</span>
-
 <span class="art">
 International cooperation for the protection of personal data</span>
 
@@ -578,7 +512,6 @@ International cooperation for the protection of personal data</span>
 
 <h2>
 <span class="chapnum" id="chap6">CHAPTER VI</span>
-
 <span class="chap">
 Independent supervisory authorities</span>
 </h2>
@@ -586,7 +519,6 @@ Independent supervisory authorities</span>
 <h3>
 <span class="secnum" id="chap6sec1">
 Section 1</span>
-
 <span class="sec">
 Independent status</span>
 </h3>
@@ -654,7 +586,6 @@ Activity reports
 
 <h2>
 <span class="chapnum" id="chap7">CHAPTER VII</span>
-
 <span class="chap">
 Cooperation and consistency
 </span>
@@ -776,7 +707,6 @@ Confidentiality
 
 <h2>
 <span class="chapnum" id="chap8">CHAPTER VIII</span>
-
 <span class="chap">
 Remedies, liability and penalties
 </span>
@@ -832,7 +762,6 @@ Penalties
 
 <h2>
 <span class="chapnum" id="chap9">CHAPTER IX</span>
-
 <span class="chap">
 Provisions relating to specific processing situations
 </span>
@@ -882,7 +811,6 @@ Existing data protection rules of churches and religious associations
 
 <h2>
 <span class="chapnum" id="chap10">CHAPTER X</span>
-
 <span class="chap">
 Delegated acts and implementing acts
 </span>
@@ -902,11 +830,10 @@ Committee procedure
 
 <h2>
 <span class="chapnum" id="chap11">CHAPTER XI</span>
-
 <span class="chap">
 Final provisions
 </span>
-<h2>
+</h2>
 
 Article 94
 
