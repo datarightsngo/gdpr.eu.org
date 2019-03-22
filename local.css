@@ -2,6 +2,152 @@
 
 /* Add local styling here, instead of modifying style.css. */
 
+
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+      a.uri {overflow-wrap: break-word;overflow-wrap: anywhere;}
+      body {
+          padding: 1em;
+          margin: 0;
+          border-width: 2px 0px 0px 0px;
+          border-style: solid;
+          border-color: green;
+          font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 14px;
+          line-height: 1.428571429;
+          color: #666666;
+          background-color: #f6f6f6;
+      }
+      .masthead, .gdprlongtitle {
+          background: white;
+          padding: 10px 25px;
+          border: 1px solid white;
+          border-radius: 5px;
+          box-shadow: 0 0.1em .5em rgba(0,0,0,0.1);
+          max-width: 100%;
+      }
+      @media (max-width:768px){
+      .masthead, .gdprlongtitle {
+          margin: 1.5em 0;
+      }
+      }
+      @media (min-width:769px){
+      .masthead, .gdprlongtitle {
+          margin: 1.5em -25px;
+      }
+      }
+      header .author a {
+          text-decoration: none;
+      }
+      h1, h2, h3, h4 {
+          color: #333333;
+          line-height: 112%;
+      }
+      h1.title {
+          font-weight: 300;
+          font-size: 230%;
+          margin-top: 0.8em;
+          margin-bottom: 0.8em;
+      }
+      h1 {
+          font-size: 250%;
+          margin-top: 4em;
+          margin-bottom: 1em;
+      }
+      h2 {
+          font-size: 220%;
+          margin-top: 3em;
+          margin-bottom: 1em;
+      }
+      h3 {
+          font-size: 160%;
+          margin-top: 2em;
+          margin-bottom: 1em;
+      }
+      h4 {
+          font-size: 125%;
+          margin-top: 1.3em;
+          margin-bottom: 1em;
+      }
+      h5 {
+          font-size: 110%;
+          margin-top: 1.1em;
+          margin-bottom: 0.9em;
+      }
+      h6 {
+          font-size: 100%;
+          font-style: italic;
+          margin-top: 1em;
+          margin-bottom: 0.7em;
+      }
+      h7 {
+          font-size: 90%;
+      }
+      blockquote p {
+          hanging-punctuation: first;
+      }
+      .hangquote, .hangsinglequote .hangguillemet {
+          display: inline-block;
+          text-indent: -0.4em;
+      }
+      .hangguillemet{text-indent: -0.8em}
+      .hangsinglequote{text-indent: -0.22em}
+      .footnote-ref {
+          text-decoration: none;
+          opacity: 0.5;
+          line-height: 0.8;
+          font-size: 90%;
+      }
+      .footnote-ref:hover {
+          opacity: 1;
+      }
+      .footnotes {
+          margin-top: 10em;
+      }
+      footer {
+          padding-bottom: 1em;
+      }
+      .legal {
+          max-width: 900px;
+          margin: auto;
+          font-weight: 300;
+      }
+      .download-as {
+          font-size: 85%;
+      }
+      .download-as a {
+          font-weight: 900;
+          font-size: 70%;
+          display: inline-block;
+          border: 2px outset #333;
+          background: #999;
+          color: white;
+          text-decoration: none;
+          vertical-align: middle;
+          padding: 0 3px;
+      }
+      .download-as a:hover {
+          border-style: inset
+      }
+      .download-as .pdf {background: #ff2e22;border-color: #ff655d;}
+      .download-as .md {display: none;}
+      .abstract-label {
+          font-size: 80%;
+          font-weight: 500;
+          margin:1em 0 -0.5em 0;
+      }
+      sup, sub {
+          vertical-align: baseline;
+          position: relative;
+          top: -0.4em;
+      }
+      sub {top: 0.3em;}
+
+
+
+      
 .page .pageheader .actions {display: none;}
 
 .chapnum, .chap {
@@ -56,138 +202,3 @@
           margin: auto;
           font-size: 16px;
 }
-
-      body {
-          padding: 1em;
-          margin: 0;
-          border-width: 2px 0px 0px 0px;
-          border-style: solid;
-          border-color: green;
-          font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-          font-size: 14px;
-          line-height: 1.428571429;
-          color: #666666;
-          background-color: #f6f6f6;
-      }
-      .master-thesis {
-      }
-      .gdprlongtitle {
-          background: white;
-          padding: 10px 25px;
-          border: 1px solid white;
-          border-radius: 5px;
-          box-shadow: 0 0.1em .5em rgba(0,0,0,0.1);
-          max-width: 100%;
-      }
-      @media (max-width:768px){
-      .gdprlongtitle {
-          margin: 1.5em 0;
-      }
-      }
-      @media (min-width:769px){
-      .gdprlongtitle {
-          margin: 1.5em -25px;
-      }
-      }
-      header .author a {
-          text-decoration: none;
-      }
-      h1, h2, h3, h4 {
-          color: #333333;
-          line-height: 112%;
-      }
-      h1 {
-          font-weight: 300;
-          font-size: 230%;
-      }
-      h2 {
-          font-size: 220%;
-          margin-top: 3em;
-          margin-bottom: 1em;
-      }
-      h3 {
-          font-size: 160%;
-          margin-top: 2em;
-          margin-bottom: 1em;
-      }
-      h4 {
-          font-size: 125%;
-          margin-top: 1.3em;
-          margin-bottom: 1em;
-      }
-      h5 {
-          font-size: 110%;
-          margin-top: 1.1em;
-          margin-bottom: 0.9em;
-      }
-      h6 {
-          font-size: 100%;
-          font-style: italic;
-          margin-top: 1em;
-          margin-bottom: 0.7em;
-      }
-      h7 {
-          font-size: 90%;
-      }
-      blockquote p, .loi p {
-          hanging-punctuation: first;
-      }
-      .Llapen {
-          display: inline-block;
-          text-indent: -0.35em;
-      }
-      a.uri {overflow-wrap: break-word;overflow-wrap: anywhere;}
-      .footnote-ref {
-          text-decoration: none;
-          opacity: 0.5;
-          line-height: 0.8;
-          font-size: 90%;
-      }
-      .footnote-ref:hover {
-          opacity: 1;
-      }
-      .footnotes {
-          margin-top: 10em;
-      }
-      footer {
-          padding-bottom: 1em;
-      }
-      .legal {
-          max-width: 900px;
-          margin: auto;
-          font-weight: 300;
-      }
-      .download-as {
-          font-size: 85%;
-      }
-      .download-as a {
-          font-weight: 900;
-          font-size: 70%;
-          display: inline-block;
-          border: 2px outset #333;
-          background: #999;
-          color: white;
-          text-decoration: none;
-          vertical-align: middle;
-          padding: 0 3px;
-      }
-      .download-as a:hover {
-          border-style: inset
-      }
-      .download-as .pdf {background: #ff2e22;border-color: #ff655d;}
-      .download-as .md {display: none;}
-      .abstract-label {
-          font-size: 80%;
-          font-weight: 500;
-          margin:1em 0 -0.5em 0;
-      }
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
-      sup, sub {
-          vertical-align: baseline;
-          position: relative;
-          top: -0.4em;
-      }
-      sub {top: 0.3em;}
