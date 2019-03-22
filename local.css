@@ -33,7 +33,7 @@
           margin: 1.5em 0;
       }
       }
-      @media (min-width:769px){
+      @media (min-width:910px){
       .masthead, .gdprlongtitle {
           margin: 1.5em -25px;
       }
@@ -170,10 +170,13 @@
     font-weight: 600;
 }
 
-.gdprwhereas, .gdprarticles {
+
+.gdprwhereas ol {
+    margin-left: 0;
+    padding-left: 0;
 }
 
-.gdprwhereas ol, .gdprarticles ol {
+.gdprarticles ol {
     padding-left: 1em;
     margin-left: 1em;
 }
@@ -186,7 +189,7 @@
     padding-left: 0em;
 }
 
-@media (min-width:769px){
+@media (min-width:910px){
 .gdprwhereas ol, .gdprarticles ol {
     padding-left: 0;
     margin-left: -1.25em;
@@ -197,13 +200,63 @@
 }
 }
 
+.gdprwhereas li, .gdprdefs li {
+    list-style: none;
+}
+.gdprwhereas li:before, .gdprdefs li:before {
+    display: inline-block;
+    float: left;
+    margin-right: 1em;
+}
+@media (min-width:910px){
+.gdprwhereas li:before, .gdprdefs li:before {
+    margin-left: -3em;
+}
+}
+
+.gdprwhereas ol {
+    counter-reset: gdprwhereas;
+}
+.gdprdefs ol {
+    counter-reset: gdprdefs;
+}
+.gdprwhereas li:before {
+    content: "("counter(gdprwhereas)")";
+    counter-increment: gdprwhereas;
+}
+.gdprdefs li:before {
+    content: "("counter(gdprdefs)")";
+    counter-increment: gdprdefs;
+}
+
 #content {
           max-width: 800px;
           margin: auto;
           font-family: "Vollkorn", "Times New Roman", Times, serif;
+          font-feature-settings: 'lnum', 'pnum';
           font-size: 22px;
           line-height: 1.428571429;
 }
+
+#content ol[type="a"] {
+    counter-reset: list-alpha;
+}
+#content ol[type="a"]  li {
+    list-style: none;
+}
+#content ol[type="a"]  li:before {
+    content: "("counter(list-alpha,lower-alpha)")";
+    counter-increment: list-alpha;
+    display: inline-block;
+    float: left;
+    margin-right: 1em;
+}
+@media (min-width:910px){
+#content ol[type="a"]  li:before {
+    margin-left: -2.2em;
+}
+}
+
 
 /*fonts loading*/
 
@@ -217,7 +270,7 @@
   font-family: 'Vollkorn';
   font-style: italic;
   font-weight: 400;
-  src: local('Vollkorn Regular Italic'), local('Vollkorn-RegularItalic'), url(/assets/vollkorn/Vollkorn-RegularItalic.woff2) format('woff2');
+  src: local('Vollkorn Italic'), local('Vollkorn-Italic'), url(/assets/vollkorn/Vollkorn-Italic.woff2) format('woff2');
 }
 @font-face {
   font-family: 'Vollkorn';
