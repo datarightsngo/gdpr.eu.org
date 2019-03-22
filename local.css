@@ -198,7 +198,48 @@
 }
 
 #content {
-          max-width: 700px;
+          max-width: 800px;
           margin: auto;
-          font-size: 16px;
+          font-family: "Vollkorn", "Times New Roman", Times, serif;
+          font-size: 22px;
+          line-height: 1.428571429;
+}
+
+/*fonts loading*/
+
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Vollkorn Regular'), local('Vollkorn-Regular'), url(/assets/vollkorn/Vollkorn-Regular.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Vollkorn Regular Italic'), local('Vollkorn-RegularItalic'), url(/assets/vollkorn/Vollkorn-RegularItalic.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Vollkorn Bold'), local('Vollkorn-Bold'), url(/assets/vollkorn/Vollkorn-Bold.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Vollkorn Bold Italic'), local('Vollkorn-BoldItalic'), url(/assets/vollkorn/Vollkorn-BoldItalic.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Vollkorn Black'), local('Vollkorn-Black'), url(/assets/vollkorn/Vollkorn-Black.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Vollkorn';
+  font-style: italic;
+  font-weight: 900;
+  src: local('Vollkorn Black Italic'), local('Vollkorn-BlackItalic'), url(/assets/vollkorn/Vollkorn-BlackItalic.woff2) format('woff2');
 }
