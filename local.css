@@ -238,25 +238,34 @@
           line-height: 1.428571429;
 }
 
+
 #content ol[type="a"] {
     counter-reset: list-alpha;
 }
-#content ol[type="a"]  li {
+#content ol[type="a"]  li, #content ul li {
     list-style: none;
+}
+#content ol[type="a"]  li:before, #content ul li:before {
+    display: inline-block;
+    float: left;
 }
 #content ol[type="a"]  li:before {
     content: "("counter(list-alpha,lower-alpha)")";
     counter-increment: list-alpha;
-    display: inline-block;
-    float: left;
     margin-right: 1em;
+}
+#content ul li:before {
+    content: "—  ";
+    margin-right: 0.2em;
 }
 @media (min-width:910px){
 #content ol[type="a"]  li:before {
     margin-left: -2.2em;
 }
+#content ul li:before {
+    margin-left: -1.75em;
 }
-
+}
 
 /*fonts loading*/
 
