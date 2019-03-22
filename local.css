@@ -88,7 +88,7 @@
       blockquote p {
           hanging-punctuation: first;
       }
-      .hangquote, .hangsinglequote .hangguillemet {
+      .hangquote, .hangsinglequote, .hangguillemet {
           display: inline-block;
           text-indent: -0.4em;
       }
