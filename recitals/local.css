@@ -1,17 +1,19 @@
-.page > .pageheader > .header > .parentlinks {
+@import url('/local.css');
+
+.page > .pageheader > .header .parentlinks {
 }
 
-.page > .pageheader > .header > .title {
+.page > .pageheader > .header .title {
     display: block;
     width: 100%;
     max-width: 800px;
     margin: auto;
     text-align: center;
 }
-.page > .pageheader > .header > .title:before {
+.page > .pageheader > .header .title:before {
     content: "(";
 }
-.page > .pageheader > .header > .title:after {
+.page > .pageheader > .header .title:after {
     content: ")";
 }
 #content ol:first-child {
