@@ -48,7 +48,7 @@ Acting in accordance with the ordinary legislative procedure[^3],
 <span class="intro">Whereas:</span>
 
 
-[[!inline pages="recitals/* and !*/Discussion" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawrecital raw=yes]]
+[[!inline pages="recitals/* and !*/Discussion and !*.css" feeds=no actions=no limit=0 archive=no sort="title_natural" template=rawrecital raw=yes]]
 
 </div>
 
