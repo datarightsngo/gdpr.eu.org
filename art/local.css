@@ -1,62 +1,70 @@
 @import url('/local.css');
 
+.page > .pageheader > .header .title {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
 .gdprwhereas ol {
     margin-left: 0;
     padding-left: 0;
 }
 
-ol {
+#content ol {
     padding-left: 1em;
     margin-left: 1em;
 }
 
-.gdprwhereas li ol, li ol {
+.gdprwhereas li ol, #content li ol {
     margin-left: 1.25em;
 }
 
-.gdprwhereas li, li {
+.gdprwhereas li, #content li {
     padding-left: 0em;
 }
 
 @media (min-width:910px){
-.gdprwhereas ol, ol {
+.gdprwhereas ol, #content ol {
     padding-left: 0;
     margin-left: -1.25em;
 }
 
-.gdprwhereas li, li {
+.gdprwhereas li, #content li {
     padding-left: 1.25em;
 }
 }
-ol[type="a"] {
+#content ol[type="a"] {
     counter-reset: list-alpha;
 }
- ol[type="a"]  li, ul li {
+#content ol[type="a"]  li, #content ul li {
     list-style: none;
 }
- ol[type="a"]  li:before, ul li:before {
+#content ol[type="a"]  li:before, #content ul li:before {
     display: inline-block;
     float: left;
 }
-ol[type="a"]  li:before {
+#content ol[type="a"]  li:before {
     content: "("counter(list-alpha,lower-alpha)")";
     counter-increment: list-alpha;
     margin-right: 1em;
 }
-ul li:before {
+#content ul li:before {
     content: "—  ";
     margin-right: 0.2em;
 }
 @media (max-width:909px){
-    ol li ol[type="a"] li:before {
+    #content ol li ol[type="a"] li:before {
         margin-left: -2.2em;
     }
 }
 @media (min-width:910px){
-    ol[type="a"]  li:before {
+    #content ol[type="a"]  li:before {
         margin-left: -2.2em;
     }
-    ul li:before {
+    #content ul li:before {
         margin-left: -1.75em;
     }
 }
