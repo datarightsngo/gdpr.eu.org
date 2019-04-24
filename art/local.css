@@ -6,6 +6,8 @@
     max-width: 800px;
     margin: auto;
     text-align: center;
+    font-family: "Vollkorn", "Times New Roman", Times, serif;
+    font-feature-settings: 'lnum', 'pnum';
 }
 
 .gdprwhereas ol {

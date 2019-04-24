@@ -1,14 +1,13 @@
 @import url('/local.css');
 
-.page > .pageheader > .header .parentlinks {
-}
-
 .page > .pageheader > .header .title {
     display: block;
     width: 100%;
     max-width: 800px;
     margin: auto;
     text-align: center;
+    font-family: "Vollkorn", "Times New Roman", Times, serif;
+    font-feature-settings: 'lnum', 'pnum';
 }
 .page > .pageheader > .header .title:before {
     content: "(";
