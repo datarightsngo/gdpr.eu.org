@@ -232,39 +232,49 @@
 #content {
           max-width: 800px;
           margin: auto;
+          font-size: 18px;
           font-family: "Vollkorn", "Times New Roman", Times, serif;
           font-feature-settings: 'lnum', 'pnum';
-          font-size: 22px;
           line-height: 1.428571429;
 }
+@media (min-width:910px){
+    #content {
+          font-size: 22px;
+    }
+}
 
 
-#content ol[type="a"] {
+.gdprarticles ol[type="a"] {
     counter-reset: list-alpha;
 }
-#content ol[type="a"]  li, #content ul li {
+.gdprarticles  ol[type="a"]  li, .gdprarticles ul li {
     list-style: none;
 }
-#content ol[type="a"]  li:before, #content ul li:before {
+.gdprarticles  ol[type="a"]  li:before, .gdprarticles ul li:before {
     display: inline-block;
     float: left;
 }
-#content ol[type="a"]  li:before {
+.gdprarticles ol[type="a"]  li:before {
     content: "("counter(list-alpha,lower-alpha)")";
     counter-increment: list-alpha;
     margin-right: 1em;
 }
-#content ul li:before {
+.gdprarticles ul li:before {
     content: "—  ";
     margin-right: 0.2em;
 }
+@media (max-width:909px){
+    .gdprarticles ol li ol[type="a"] li:before {
+        margin-left: -2.2em;
+    }
+}
 @media (min-width:910px){
-#content ol[type="a"]  li:before {
-    margin-left: -2.2em;
-}
-#content ul li:before {
-    margin-left: -1.75em;
-}
+    .gdprarticles ol[type="a"]  li:before {
+        margin-left: -2.2em;
+    }
+    .gdprarticles ul li:before {
+        margin-left: -1.75em;
+    }
 }
 
 /*fonts loading*/
